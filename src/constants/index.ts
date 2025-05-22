@@ -1,9 +1,8 @@
 export const AppName = "R5 Wallet" // Don't change this!
 export const AppDescription = "The R5 Wallet is an open-source and community developed software that allows anyone to send and receive R5 Coins over the internet. There are also desktop and web versions of the wallet available. Visit https://r5.network for more information." // Don't change this!
-export const AppVersion = "1.0.2-beta" // Don't change this!
-export const VersionApiUrl = "https://api.github.com/repos/r5-labs/r5-wallet/releases/latest" // Don't change this!
-export const UpdateDownloadUrl = "https://github.com/r5-labs/r5-wallet/releases/latest" // Don't change this!
-export const HelpUrl = "https://docs.r5.network/tutorials-and-guides/r5-desktop-wallet" // Don't change this!
+export const AppVersion = "1.0.3-beta" // Don't change this!
+export const VersionApiUrl = "https://api.github.com/repos/r5-labs/r5-mobile-wallet/releases/latest" // Don't change this!
+export const UpdateDownloadUrl = "https://github.com/r5-labs/r5-mobile-wallet/releases/latest" // Don't change this!
 export const RpcUrl = "https://rpc.r5.network" // Use your own RPC server or a public one
 export const ExplorerUrl = "https://explorer.r5.network" // You can change the preferred explorer URL
 export const TestnetRpcUrl = "https://rpc-testnet.r5.network" // Use your own RPC server or a public one

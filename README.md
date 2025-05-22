@@ -45,12 +45,12 @@ npx cap copy
 Now you can use the `open` command with Capacitor to open either Android or iOS' IDEs to build your application:
 
 ```bash
-npx open android
+npx cap open android
 ```
 
 Or
 
 ```bash
-npx open ios
+npx cap open ios
 ```
 > It's important to note that **you can only build the iOS version of the application on a macOS machine**. You can run Android Studio with the Android SDK to build the Android version on any device.
