@@ -23,6 +23,7 @@ export const ScrollContainer = styled(BoxContent)`
   width: 100%;
   border-top: 1px solid ${colorBorder};
   padding-top: 10px;
+  margin-bottom: 210px;
   display: flex;
   flex-direction: column;
   justify-content: flex-start;

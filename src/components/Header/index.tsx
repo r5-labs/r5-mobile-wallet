@@ -156,14 +156,14 @@ export function Header({
           zIndex: 2,
           background: colorSecondary,
           margin: 0,
-          padding: "20px 5px",
+          padding: "10px 5px 35px 5px",
           borderRadius: `${borderRadiusDefault} ${borderRadiusDefault} 0 0`
         }}
       >
         <HeaderSection
           style={{
             display: "flex",
-            justifyContent: "center",
+            justifyContent: "flex-start",
             width: "100%"
           }}
         >
